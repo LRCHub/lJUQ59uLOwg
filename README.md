@@ -1,0 +1,68 @@
+# Selphius – Los! Los! Los! (Saga of Tanya the Evil)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Feuer! Sperrfeuer! Feuer! Los!
+Achtung! Deckung! Hinlegen! Halt!
+Feuer! Sperrfeuer! Feuer! Los!
+Achtung! Deckung! Hinlegen! Halt!
+Auf zum Schlachtfeld! Auf zur Front! Und auf bis zu eurem Tod!
+Werft das Leben hinfort, zeigt die Willenskraft, die in euch wohnt!
+Feuer! Sperrfeuer! Feuer! Los!
+Achtung! Deckung! Hinlegen! Halt!
+Hört nur den Schüssen zu, die nach ihnen jagen
+Hört ihr die Schreie auch? Hört ihr diese Maden?
+Stampft sie alle tot! Stampft sie alle tot!
+Männer! Wie lautet unsere Mission?
+Absolute Ausrottung!
+Kein einziger Feind wird am Leben bleiben!
+Wir werden diesen Maden die Hölle auf Erden bereiten!
+(Warum gehen wir so weit, verpflichten uns nur Tod und Leid?)
+...und laufen mit dem Kopf voran zum Kugelhagel hin sodann?
+Die Antwort liegt klar vor uns: Es ist für dieses Land!
+Auf zum Schlachtfeld! Auf zur Front! Und auf bis zu eurem Tod!
+Werft das Leben hinfort, zeigt die Willenskraft tief in euch
+Zeigt mir Treue! Zeigt Gehorsam! Dient nun mit Leib und Geist!
+Jede Faser in euch soll laut triumphierend aufschrei'n
+Schreitet nun voran!
+Auf Bergen, die wir bau'n aus Leichen unter uns
+Bis hoch zum Himmelszelt
+Feuer! Sperrfeuer! Feuer! Los!
+Achtung! Deckung! Hinlegen! Halt!
+Feuer! Sperrfeuer! Feuer! Los!
+Achtung! Deckung! Hinlegen! Halt!
+Die Angst vergeht, sobald du genauer hinsiehst
+Ein Feuerwerk aus Blut, das nur so umher fliegt
+Schau, wie schön es fließt
+Schau, wie schön es fließt
+Niemals könnt ich ausradier'n, welch Bilder nun mein Leben zier'n
+Feuer, das zum Himmel reicht, der Anblick des verbrannten Fleischs
+Des Lebens letzter Hilfeschrei, der Augenglanz dem Tode weicht
+Ahh, das ist der Anblick, nach dem mein Herz so schreit
+Frieden in der Welt ist bloßer Trug, der schnell zerbricht
+Nur ein Hund, den man längst seiner Krall'n beraubte, kämpft nicht
+Wahnsinn, der dieser Welt Verzweiflung endlich wieder bringt
+Ist für mich wie ein Lied, das vom reinen Paradies singt
+Deine Glieder sind gemacht, um zu tanzen
+Tanze, bis auch du dem Wahnsinn ganz verfällst
+Menschen sind absolut wertlos
+Jeder, der auf diesem Schlachtfeld kämpft, ist wertlos
+Also zeigt ihnen, dass eure Leben trotzdem im Kampf erblühen können!
+Jedes Gesetz, alle Regeln der Welt
+Sind Menschenwerk, das uns zähmt und gefang' hält
+Ich hab die Lügen satt
+Den Unsinn der, uns alle einsperrt von Anfang an
+Auf zum Schlachtfeld! Auf zur Front! Und auf bis zu eurem Tod!
+Werft das Leben hinfort, zeigt die Willenskraft tief in euch
+Zeigt mir Treue! Zeigt Gehorsam! Dient nun mit Leib und Geist!
+Jede Faser in euch soll laut triumphierend aufschrei'n
+Schreitet nun voran!
+Auf Bergen, die wir bau'n aus Leichen unter uns
+Bis hoch zum Himmel
+Wir übertönen laut mit uns'ren Waffen all den Hass, der uns'ren Feind bewohnt
+Feuer! Sperrfeuer! Feuer! Los!
+Achtung! Deckung! Hinlegen! Halt!
+Feuer! Sperrfeuer! Feuer! Los!
+Achtung! Deckung! Hinlegen! Halt!
+```
