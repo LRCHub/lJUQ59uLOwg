@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Los! Los! Los! (Saga of Tanya the Evil)",
+  "base_artist": "Selphius",
+  "createdAt": "2026-01-03T00:27:36.897479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Los! Los! Los! (Saga of Tanya the Evil)",
+      "artist": "Selphius",
+      "has_synced": false,
+      "path": "select/01_Los!_Los!_Los!_(Saga_of_Tanya_the_Evil)_Selphius.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Los! Los! Los! (Saga of Tanya the Evil)",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/02_Los!_Los!_Los!_(Saga_of_Tanya_the_Evil)_Selphius.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Los! Los! Los! (Saga of Tanya the Evil)",
+      "artist": "Selphius",
+      "has_synced": false,
+      "path": "select/pl_01_Los!_Los!_Los!_(Saga_of_Tanya_the_Evil)_Selphius.txt"
+    }
+  ]
+}
